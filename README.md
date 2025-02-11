@@ -3,32 +3,26 @@
 <!--## Hi there 👋-->
 
 <!-- Mark Down -->
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=introduce%20myself&fontSize=90&animation=scaleIn)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=seongeun03&show_icons=true&theme=radical)](https://github.com/seongeun03)
 <br> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongeun03 &layout=compact)](https://github.com/seongeun03/github-readme-stats)
 
 # Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
 ---
+**study list**
+* HTML
+* css
+* JS
+* Java
+  <hr>
+**Project list(예정)**
+* 1. mood lamp app(android)
+* 2. ohtani shohei AI chat(web)
 
-**두껍게** <br>
-*기울임* <br>
-~~취소선~~
-
-* 1번
-* 2번
-- 1번
-- 2번
-
-[네이버](naver.com)
-
+<hr>
 <!-- 코드 복사 되게 해주는 코드! -->
 ```
 System.out.println("aaa");
